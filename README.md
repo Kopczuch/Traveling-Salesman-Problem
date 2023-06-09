@@ -1,4 +1,4 @@
-# Problem Komiwojazera
+# Traveling Salesman Problem
  Aplikacja rozwiązująca problem komiwojażera dla odległości euklidesowych największych miast Polski wykorzystująca cztery różne algorytmy
 ![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/8a7b474f-e0f3-49f1-ac6f-68b276e05013)
 ## Algorytm Zachłanny:
