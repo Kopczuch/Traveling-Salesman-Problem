@@ -1,12 +1,13 @@
 # Traveling Salesman Problem
 An application solving the Traveling Salesman Problem for the largest cities in Poland using four different algorithms.
-![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/8a7b474f-e0f3-49f1-ac6f-68b276e05013)
+![image](https://github.com/Kopczuch/Traveling-Salesman-Problem/assets/55816369/be0e7ef4-baed-4be1-b31b-e8a912df5cb5)
 ## The Greedy Algorithm:
-![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/55d01413-22d6-4f7a-8dd4-39b01c9f899b)
+![image](https://github.com/Kopczuch/Traveling-Salesman-Problem/assets/55816369/288179fc-d98f-4a27-b6cf-81e48c7f0fe4)
 ## The 2-opt algorithm:
-![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/b5334641-ad63-4c91-94c8-a4776599fe8f)
+![image](https://github.com/Kopczuch/Traveling-Salesman-Problem/assets/55816369/85452d91-293a-4ea2-833f-65b3d15cb727)
 ## The Genetic Algorithm:
-![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/74185583-9c1d-4388-82ad-0f8a6bf85230)
+![image](https://github.com/Kopczuch/Traveling-Salesman-Problem/assets/55816369/48d6f5e4-3cdd-45af-9d71-2324b39c796b)
 ## The Branch and Bound Algorithm:
-![image](https://github.com/Kopczuch/Problem-Komiwojazera/assets/55816369/201af3c4-cb1d-4ea3-b173-6d7e6e0bafb1)
+![image](https://github.com/Kopczuch/Traveling-Salesman-Problem/assets/55816369/bcbb46f2-9349-41d9-8266-4a6e36c5d581)
+
 
